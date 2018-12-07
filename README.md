@@ -1,6 +1,5 @@
-# change_document_root_of_apache2
-How To Move an Apache Web Root to a New Location on Debian or change DocumentRoot of apache2 to new directory
- Problem: How To Move an Apache2 Web Root to a New Location on Debian: 
+# change DocumentRoot of apache2 to new directory
+Problem: How To Move an Apache Web Root to a New Location on Debian or change DocumentRoot of apache2 to new directory
 
 Prerequisite: 
 	1. Needed a mountded volume

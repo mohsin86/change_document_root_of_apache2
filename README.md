@@ -54,6 +54,7 @@ Now main step to follow:
 		`DocumentRoot /mnt/office/www`
 		
 Once you’ve finished the configuration changes, ensure the syntax is correct with the following command:
+		
 		`sudo apachectl configtest`
 
 if output like the following:
@@ -61,4 +62,7 @@ if output like the following:
 As long as you see Syntax OK, restart the web server. Otherwise, track down and fix the problems it reported. 
 
 Use the following command to restart Apache:
+         
          `sudo service apache2 restart`    
+         
+Now have fun :) :)

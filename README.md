@@ -22,11 +22,12 @@ Prerequisite:
        
    2. Need ownership and permission of directory
 		   the comman	that change the directory and file onwerships, and permissions: 
-	 	  
-		#  sudo chown -R xyz /mnt/office/www 
-		# sudo chown -R xyz /mnt/office  
-		# sudo chmod 755 /mnt/office/www
-		# sudo chmod 644 /mnt/office/www/* 
+      
+                sudo chown -R xyz /mnt/office/www 
+                sudo chown -R xyz /mnt/office  
+                sudo chmod 755 /mnt/office/www
+                sudo chmod 644 /mnt/office/www/* 
+                
 
 Here xyz are user
 now we want www directory of office mount point as a document root of apache

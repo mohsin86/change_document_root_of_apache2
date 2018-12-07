@@ -1,4 +1,4 @@
-# Change DocumentRoot of apache2 to new directory
+# change DocumentRoot of apache2 to new directory
 Problem: How To Move an Apache Web Root to a New Location on Debian or change DocumentRoot of apache2 to new directory
 
 Prerequisite: 
@@ -20,7 +20,7 @@ Prerequisite:
                                       `sudo mkdir -p /mnt/office/www`
       		 	
        
-	2. Need ownership and permission of directory
+   2. Need ownership and permission of directory
 		   the comman	that change the directory and file onwerships, and permissions: 
 	 	  
 		#  sudo chown -R xyz /mnt/office/www 
